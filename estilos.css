@@ -1,31 +1,24 @@
 
-.container  {
-    text-align: center;
-}
+
+
+
 
 table{
-    border: 1px dotted black;
     width: 800px;
     background-color: yellow;
+    border: 1px dotted black;
+    border-spacing: 0mm;
     border-bottom: 1px dashed red;
 }
 
-th{
-    width: 50%;
-   
-}
-
-td{
+.dot    {
     border: 1px dotted black;
-    width: 50%;
-
+    margin: 1px;
 }
 
-table. tr{
-    border: 1px dotted black;
-}
 
 .rojo   {
     color: red;
 }
+
 
